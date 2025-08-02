@@ -8,11 +8,11 @@ Built using Streamlit, Hugging Face Transformers, and custom prompts to integrat
 
 📂 **File Structure** 
 StudyMate/ 
-├── app.py            # Main Streamlit application 
-├── ats.py            # Resume analysis with Hugging Face API 
-├── qna.py            # Question answering with BERT model 
-├── roadmap.py        # Roadmap generation using Mistral-7B model 
-├── requirements.txt  # Python dependencies 
+├── app.py            # Main Streamlit application \n
+├── ats.py            # Resume analysis with Hugging Face API \n
+├── qna.py            # Question answering with BERT model \n
+├── roadmap.py        # Roadmap generation using Mistral-7B model \n
+├── requirements.txt  # Python dependencies \n
 └── README.md         # This file
 
 
